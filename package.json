@@ -1,0 +1,23 @@
+{
+  "name": "es-test",
+  "version": "1.0.0",
+  "description": "Test of es implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakchandola717/es-test.git"
+  },
+  "author": "deepakchandola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakchandola717/es-test/issues"
+  },
+  "homepage": "https://github.com/deepakchandola717/es-test#readme",
+  "dependencies": {
+    "elasticsearch": "^16.5.0",
+    "yargs": "^15.1.0"
+  }
+}
